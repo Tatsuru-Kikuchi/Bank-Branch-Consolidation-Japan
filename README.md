@@ -38,13 +38,21 @@ cd Bank-Branch-Consolidation-Japan
 ```
 
 # Create virtual environment
+```bash
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
 
 # Install dependencies
+```bash
 pip install -r requirements.txt
+```
 
 # Install theoretical framework
+```bash
 pip install git+https://github.com/Tatsuru-Kikuchi/Regime-Swithch-Dynamics.git
+```
 
-## 2. requirements.txt
+## Project Structure
+
+
+
