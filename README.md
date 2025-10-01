@@ -31,10 +31,11 @@ Applies three-stage boundary detection:
 3. Temporal decay estimation for adjustment dynamics
 
 ## Installation
-```bash
 # Clone this repository
+```bash
 git clone https://github.com/Tatsuru-Kikuchi/Bank-Branch-Consolidation-Japan.git
 cd Bank-Branch-Consolidation-Japan
+```
 
 # Create virtual environment
 python -m venv venv
@@ -45,3 +46,5 @@ pip install -r requirements.txt
 
 # Install theoretical framework
 pip install git+https://github.com/Tatsuru-Kikuchi/Regime-Swithch-Dynamics.git
+
+## 2. requirements.txt
