@@ -54,6 +54,7 @@ pip install git+https://github.com/Tatsuru-Kikuchi/Regime-Swithch-Dynamics.git
 ```
 
 ## Project Structure
+```
 Bank-Branch-Consolidation-Japan/
 ├── data/
 │   ├── raw/              # Raw data (not in git)
@@ -70,5 +71,4 @@ Bank-Branch-Consolidation-Japan/
 ├── paper/
 │   └── consolidation.tex
 └── notebooks/            # Exploratory analysis
-
-
+```
