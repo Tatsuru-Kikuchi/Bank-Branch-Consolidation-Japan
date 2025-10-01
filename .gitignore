@@ -1,0 +1,24 @@
+# Data files
+data/raw/*
+data/processed/*
+*.csv
+*.xlsx
+*.dta
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+
+# Results (track structure, not files)
+results/tables/*
+results/figures/*
+!results/tables/.gitkeep
+!results/figures/.gitkeep
+
+# Paper intermediate files
+paper/*.aux
+paper/*.log
+paper/*.out
+paper/*.bbl
+paper/*.blg
