@@ -74,13 +74,11 @@ Bank-Branch-Consolidation-Japan/
 ```
 
 ## Current Status
-```
- Repository setup
- Data collection (branch locations, closures)
- Data processing (panel construction)
- Boundary estimation
- Policy analysis
-```
+- [x] Repository setup
+- [ ] Data collection (branch locations, closures)
+- [ ] Data processing (panel construction)
+- [ ] Boundary estimation
+- [ ] Policy analysis
 
 ## Citation
 If you use this work, please cite:
