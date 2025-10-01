@@ -72,3 +72,23 @@ Bank-Branch-Consolidation-Japan/
 │   └── consolidation.tex
 └── notebooks/            # Exploratory analysis
 ```
+
+## Current Status
+```
+ Repository setup
+ Data collection (branch locations, closures)
+ Data processing (panel construction)
+ Boundary estimation
+ Policy analysis
+```
+
+## Citation
+If you use this work, please cite:
+Kikuchi, T. (2025). Bank Branch Consolidation in Japan: Spatial-Temporal Boundary Analysis.
+GitHub repository: https://github.com/Tatsuru-Kikuchi/Bank-Branch-Consolidation-Japan
+And the theoretical framework:
+Kikuchi, T. (2025). A Unified Framework for Spatial and Temporal Treatment Effect Boundaries:
+Theory and Identification. Working paper.
+
+## License
+MIT License
